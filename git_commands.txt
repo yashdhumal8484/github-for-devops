@@ -1,0 +1,200 @@
+
+    6  code.
+    7  code .
+    8  clear
+    9  ls -lart
+   10  git init
+   11  ls -lart
+   12  ls
+   13  ls
+   14  touch mix.py
+   15  ls
+   16  start .
+   17  rs mix.py
+   18  rm mix.py
+   19  start .
+   20  touch /newonebo
+   21  newonebo/
+   22  newonebo
+   23  mkdir newhero
+   24  ls
+   25  start .
+   26  rm -rf newhero
+   27  ls
+   28  cd py project
+   29  cd pyproject
+   30  mkdir hello
+   31  cd hello
+   32  ls
+   33  rm -rf hello
+   34  ls
+   35  cd ..
+   36  ls
+   37  rm -rf hello
+   38  ls
+   39  git --version
+   40  git status
+   41  ls
+   42  git status
+   43  git init
+   44  git status
+   45  add -a
+   46  add loops.py
+   47  mkdir lolol
+   48  ls
+   49  cd lolol
+   50  ls
+   51  touch .hi
+   52  ls
+   53  touch hel.txt
+   54  ls
+   55  touch hi
+   56  ls
+   57  start .
+   58  git status
+   59  cd ..
+   60  ls
+   61  git add loops.py
+   62  git status
+   63  git add -a
+   64  git add -A
+   65  git status
+   66  code .
+   67  git log
+   68  git
+   69  ls
+   70  cd desktop
+   71  mkdir projectGit
+   72  cd projectGit
+   73  git init
+   74  ls
+   75  ls -
+   76  ls -a
+   77  ls .git
+   78  touch names.txt
+   79  git status
+   80  git add names.txt
+   81  git status
+   82  git commit -m "names.txt file added"
+   83  git status
+   84  vi names.txt
+   85  vi names.txt
+   86  cat names.txt
+   87  git status
+   88  git add.
+   89  git add .
+   90  git nodes.txt
+   91  git numbers.txt
+   92  git names.txt
+   93  git add .
+   94  git status
+   95  restore --staged names.txt
+   96  git restore --staged names.txt
+   97  git status
+   98  git add .
+   99  git add names.txt
+  100  git status
+  101  git commit -m "names.txt files modified"
+  102  git log
+  103  cd project1
+  104  cd project
+  105  ls
+  106  cd projectgit
+  107  ls
+  108  rm -rf names.txt
+  109  git status
+  110  cd project
+  111  cd projectgit
+  112  ls
+  113  cd
+  114  cd projectGit
+  115  touch names.txt
+  116  git status
+  117  git add names.txt
+  118  git status
+  119  git log
+  120  vi names.txt
+  121  cat names.txt
+  122  touch surname.txt
+  123  git status
+  124  git add >
+  125  git add .
+  126  git status
+  127  vi surname.txt
+  128  git status
+  129  git add .
+  130  git status
+  131  git log
+  132  cd admin
+  133  mkdir gam
+  134  ls
+  135  clear
+  136  cd gam
+  137  ls
+  138  git init
+  139  ls -a
+  140  ls .git
+  141  ls
+  142  touch names.txt
+  143  ls
+  144  git status
+  145  git add names.txt
+  146  git status
+  147  git commit -m"names.txt file added"
+  148  git status
+  149  vi names.txt
+  150  git staus
+  151  git add names.txt
+  152  git status
+  153  git add names.txt
+  154  git status
+  155  git commit -m"names.txt file modified"
+  156  rm -rf names.txt
+  157  git status
+  158  git add .
+  159  git commit -m"names.txt file deleted"
+  160  git status
+  161  git log
+  162  git reset b300882caee1ecdbc2966681902a2b51e5ee8609
+  163  git status
+  164  cat names.txt
+  165  git log
+  166  cat names.txt
+  167  touch renam.txt
+  168  git status
+  169  touch houses.txt
+  170  git status
+  171  git log
+  172  git add .
+  173  git status
+  174  git stash
+  175  git status
+  176  git log
+  177  cat m=names.txt
+  178  cat names.txt
+  179  git remote add origin https://github.com/yashdhumal8484/communityclassroom.git~
+  180  git push origin master
+  181  remote -v
+  182  git remote add origin https://github.com/yashdhumal8484/communityclassroom.git
+  183  remote -v
+  184  git push origin master
+  185  git remote add origin https://github.com/yashdhumal8484/communityclassroom.git
+  186   ~/gam (master)
+  187  $
+  188  git remote add origin https://github.com/yashdhumal8484/communityclassroom.git
+  189  git branch -M main
+  190  git push -u origin main
+  191  git --version
+  192  pwd
+  193  cd git-course
+  194  pwd
+  195  cd git-course
+  196  git status
+  197  git --version
+  198  cd turbo3.0/
+  199  npx create-turbo@latest
+  200  npm run dev
+  201  npm run dev
+  202  npm install  turbo
+  203  git status
+  204  history
