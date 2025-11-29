@@ -41,15 +41,9 @@
    45  add -a
    46  add loops.py
    47  mkdir lolol
-   48  ls
-   49  cd lolol
-   50  ls
    51  touch .hi
    52  ls
    53  touch hel.txt
-   54  ls
-   55  touch hi
-   56  ls
    57  start .
    58  git status
    59  cd ..
